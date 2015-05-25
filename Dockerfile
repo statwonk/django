@@ -1,4 +1,4 @@
-FROM statwonk/base
+FROM statwonk/docker-base
 MAINTAINER Christopher Peters "cpeter9@gmail.com"
 
 ENV PYTHONUNBUFFERED 1
