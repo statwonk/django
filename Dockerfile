@@ -17,4 +17,4 @@ RUN ln -s /usr/lib/x86_64-linux-gnu/libfreetype.so.6 /usr/lib/libfreetype.so
 RUN ln -s /usr/lib/x86_64-linux-gnu/libz.so /usr/lib
 
 # Service
-EXPOSE 8000
+# EXPOSE 8000
